@@ -30,8 +30,9 @@ O catálogo já registra Sorveteria e Java como parte do escopo do laboratório,
 ### Sorveteria
 
 - [x] Registrar origem, equipe identificada e estado no catálogo.
-- [ ] Criar o repositório canônico `sorveteria` na organização.
-- [ ] Copiar todos os HTML, CSS, JavaScript, imagens, fontes e recursos necessários.
+- [x] Criar o repositório canônico `Web-Site-Sorveteria` na organização.
+- [x] Copiar páginas HTML, CSS, JavaScript, licenças, fontes e 56 dos 57 recursos binários identificados.
+- [ ] Copiar `imgs/imgs/Logo1.png` da origem e validar todos os caminhos de recursos.
 - [ ] Preservar créditos e confirmar autorização dos participantes.
 - [ ] Testar caminhos relativos, responsividade e comportamento das páginas.
 - [ ] Confirmar o destino da hospedagem antes de alterar qualquer publicação existente.
@@ -39,9 +40,10 @@ O catálogo já registra Sorveteria e Java como parte do escopo do laboratório,
 ### Java
 
 - [x] Registrar origem e listas conhecidas no catálogo.
-- [ ] Criar o repositório canônico `java-exercicios` na organização.
-- [ ] Copiar somente a pasta Java, não o repositório pessoal inteiro.
-- [ ] Organizar README geral e instruções por lista.
+- [x] Criar o repositório canônico `Projetos-Java` na organização.
+- [x] Copiar somente os 42 arquivos Java identificados na pasta Java, sem transferir o repositório pessoal inteiro.
+- [x] Organizar README geral e instruções básicas de execução.
+- [ ] Compilar/executar amostras de cada lista e corrigir eventuais diferenças de ambiente.
 - [ ] Verificar autoria, dependências, execução e ausência de dados sensíveis.
 
 **Regra de segurança:** preservar os repositórios de origem até validar a cópia. Não apagar, arquivar ou transferir nada como parte desta etapa sem revisão e autorização.
@@ -85,8 +87,8 @@ Os papéis acima são uma proposta de governança; não significam que os acesso
 
 ## Próximas ações prioritárias
 
-1. Revisar o repositório privado institucional.
-2. Criar os repositórios dedicados para Sorveteria e Java, se a conta autorizada puder fazê-lo.
-3. Consolidar e testar os arquivos sem interromper as origens.
-4. Confirmar membros, permissões e proteção de branches.
+1. Copiar o arquivo `imgs/imgs/Logo1.png` para `Web-Site-Sorveteria` e validar todas as páginas localmente.
+2. Compilar/executar amostras de cada lista em `Projetos-Java`.
+3. Revisar o repositório privado institucional.
+4. Confirmar membros, permissões, visibilidade dos projetos e proteção de branches.
 5. Só então preparar uma vitrine pública coletiva.
