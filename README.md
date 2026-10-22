@@ -23,7 +23,7 @@ Ponto de entrada para organização, documentação, catálogo de projetos e rec
 
 | Projeto | Classificação | Origem do código | Situação |
 |---|---|---|---|
-| [Sorveteria](https://github.com/Lab-Tecnico-Etec/Web-Site-Sorveteria) | Projeto coletivo de Programação Web | [Pasta de origem](https://github.com/Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria) | Migração parcial: HTML, CSS, JS e licenças copiadas; imagens e fontes binárias pendentes |
+| [Sorveteria](https://github.com/Lab-Tecnico-Etec/Web-Site-Sorveteria) | Projeto coletivo de Programação Web | [Pasta de origem](https://github.com/Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria) | 56/57 recursos binários copiados; falta `imgs/imgs/Logo1.png`; validação visual pendente |
 | [Códigos Java](https://github.com/Lab-Tecnico-Etec/Projetos-Java) | Código acadêmico de aprendizagem | [Pasta de origem](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas/tree/main/java) | 42 arquivos Java copiados; origem preservada; validação de execução pendente |
 
 ## Padrões de colaboração
