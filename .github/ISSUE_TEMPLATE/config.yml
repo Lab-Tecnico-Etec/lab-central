@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Dúvidas e orientação
+    url: https://github.com/Lab-Tecnico-Etec/lab-central/discussions
+    about: Use as discussões se estiverem habilitadas; caso contrário, consulte o README e a documentação do projeto.
