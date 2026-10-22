@@ -21,9 +21,9 @@ Ponto de entrada para organização, documentação, catálogo de projetos e rec
 
 | Repositório | Finalidade | Estado |
 |---|---|---|
-| [lab-central](https://github.com/Lab-Tecnico-Etec/lab-central) | Central de documentação e padrões | Em estruturação |
+| [Lab-Tecnico-Etec](https://github.com/Lab-Tecnico-Etec/Lab-Tecnico-Etec) | Apresentação institucional da organização | Em estruturação |\n| [lab-central](https://github.com/Lab-Tecnico-Etec/lab-central) | Central de documentação e padrões | Em desenvolvimento |
 
-> O inventário ainda não pode ser considerado completo: a conexão GitHub disponível mostrou somente `lab-central`. Outros repositórios podem existir sem estarem acessíveis à integração.
+> O catálogo registra os repositórios da organização confirmados nesta revisão. Mantenha-o atualizado quando novos projetos forem criados ou identificados.
 
 ## Padrões de colaboração
 
