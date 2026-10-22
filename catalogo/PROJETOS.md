@@ -18,9 +18,9 @@ Inventário oficial do Lab Técnico ETEC. O catálogo distingue o vínculo insti
 - **Origem preservada:** [Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria](https://github.com/Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria)
 - **Tecnologias:** HTML, CSS e JavaScript.
 - **Equipe indicada na origem:** Luca, Bianca e Fred.
-- **Arquivos já copiados para o repositório canônico:** páginas HTML, folhas CSS, scripts JS e textos de licença/fontes.
-- **Estado:** migração parcial. Arquivos binários de imagens e fontes ainda precisam ser transferidos e validados; até então, caminhos de recursos podem estar quebrados e o site não deve ser tratado como pronto para publicação.
-- **Próximas tarefas:** copiar todos os recursos binários mantendo os caminhos relativos, verificar licenças e créditos, testar todas as páginas em servidor local e só depois considerar publicação.
+- **Arquivos copiados:** páginas HTML, folhas CSS, scripts JS, textos de licença, fontes e 56 dos 57 recursos binários identificados na origem.
+- **Pendência conhecida:** `imgs/imgs/Logo1.png` não foi transferido porque a integração não conseguiu recuperar seu conteúdo binário; copie-o manualmente da origem para o mesmo caminho.
+- **Estado:** consolidação quase completa, ainda não validada visualmente. Não publicar como versão final antes de restaurar o arquivo ausente, testar caminhos relativos, verificar licenças e créditos e executar todas as páginas em servidor local.
 - **Hospedagem:** a URL mencionada na origem não é considerada publicação oficial nem foi validada nesta etapa.
 
 ### Java — exercícios acadêmicos
@@ -28,7 +28,7 @@ Inventário oficial do Lab Técnico ETEC. O catálogo distingue o vínculo insti
 - **Repositório canônico:** [Lab-Tecnico-Etec/Projetos-Java](https://github.com/Lab-Tecnico-Etec/Projetos-Java)
 - **Origem preservada:** [Lvc4br/ETEC-Desenvolvimento-de-Sistemas/tree/main/java](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas/tree/main/java)
 - **Conteúdo:** exercícios organizados em `listaA`, `listaAExtra2`, `listaD`, `listaExtra` e `listaF`.
-- **Estado:** os 42 arquivos Java identificados na pasta de origem foram copiados para o repositório canônico; README de execução e autoria foi atualizado. A origem permanece intacta.
+- **Estado:** 42 arquivos Java copiados para o repositório canônico; README de execução e autoria atualizado. A origem permanece intacta.
 - **Próximas tarefas:** compilar/executar amostras de cada lista, revisar nomes de classes e pacotes, confirmar créditos e decidir a visibilidade adequada.
 
 ## Repositórios pessoais preservados
