@@ -18,12 +18,12 @@ Ponto de entrada para organização, documentação, catálogo de projetos e rec
 - [Política de segurança](SECURITY.md)
 - [Perfil público e padrões globais](https://github.com/Lab-Tecnico-Etec/.github)
 
-## Projetos em destaque
+## Projetos vinculados ao laboratório
 
-| Projeto | Situação atual | Próxima decisão |
-|---|---|---|
-| [Sorveteria](https://github.com/Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria) | Projeto de grupo dentro do repositório acadêmico de Programação Web | Consultar a equipe sobre criar um repositório canônico sob a organização, sem apagar o original |
-| [Exercícios de Java](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas/tree/main/java) | Estudos individuais organizados por listas | Manter no repositório pessoal; não transferir sem acordo |
+| Projeto | Classificação | Origem do código | Situação |
+|---|---|---|---|
+| [Sorveteria](https://github.com/Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria) | Projeto coletivo de Programação Web | [Pasta Sorveteria](https://github.com/Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria) | Registrado como projeto do laboratório; consolidação física em repositório canônico ainda pendente |
+| [Códigos Java](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas/tree/main/java) | Código acadêmico de aprendizagem | [Pasta Java](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas/tree/main/java) | Registrado como parte do escopo de aprendizagem; consolidação física ainda pendente |
 
 ## Padrões de colaboração
 
@@ -33,6 +33,7 @@ Ponto de entrada para organização, documentação, catálogo de projetos e rec
 - Nunca envie credenciais, tokens, chaves privadas, dados pessoais ou arquivos `.env` reais.
 - Defina a licença de cada projeto com seus responsáveis; não presuma que o código está liberado para reutilização.
 - Preserve autoria, histórico e código existente. Não mova, renomeie, torne público, arquive ou exclua projetos sem autorização explícita.
+- Diferencie no catálogo o projeto reconhecido pelo laboratório da cópia física já hospedada na organização.
 
 ## Adicionar um projeto ao catálogo
 
