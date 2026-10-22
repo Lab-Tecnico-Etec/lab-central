@@ -1,6 +1,6 @@
 # Catálogo de projetos
 
-Inventário dos repositórios e iniciativas do Lab Técnico ETEC. Este catálogo diferencia a infraestrutura da organização, projetos coletivos e repositórios pessoais de estudo. A presença de um link não significa que o repositório tenha sido transferido para a organização.
+Inventário oficial do Lab Técnico ETEC. Para este laboratório, Sorveteria e os códigos/exercícios Java passam a ser reconhecidos como projetos vinculados à organização. Os repositórios de origem serão preservados durante a consolidação; vínculo organizacional não significa que os arquivos já foram fisicamente copiados para um repositório da organização.
 
 ## Infraestrutura da organização
 
@@ -8,44 +8,49 @@ Inventário dos repositórios e iniciativas do Lab Técnico ETEC. Este catálogo
 |---|---|---|
 | [.github](https://github.com/Lab-Tecnico-Etec/.github) | Perfil público, diretrizes compartilhadas e modelos de issues/PRs | Manter |
 | [lab-central](https://github.com/Lab-Tecnico-Etec/lab-central) | Governança, documentação, catálogo e modelos | Manter |
-| [Lab-Tecnico-Etec](https://github.com/Lab-Tecnico-Etec/Lab-Tecnico-Etec) | README institucional separado | Redundante em parte; manter por enquanto e avaliar arquivamento depois de conferir o histórico e arquivos. |
+| [Lab-Tecnico-Etec](https://github.com/Lab-Tecnico-Etec/Lab-Tecnico-Etec) | Repositório institucional atualmente privado | Manter por enquanto; consolidar nele ou em repositórios dedicados os projetos abaixo após confirmar estrutura e permissões |
 
-## Projetos coletivos e acadêmicos relacionados ao laboratório
+## Projetos do laboratório
 
-### Sorveteria — projeto de Programação Web
+### Sorveteria — projeto coletivo de Programação Web
 
-- **Repositório atual:** [Projetos-PW-ETEC/Sorveteria](https://github.com/Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria)
-- **Repositório que contém o projeto:** [Lvc4br/Projetos-PW-ETEC](https://github.com/Lvc4br/Projetos-PW-ETEC)
-- **Tecnologias observadas:** HTML, CSS e JavaScript.
-- **Equipe indicada no README:** Luca, Bianca e Fred; colaboradores no GitHub: Bianca2804 e Csx-Santosz.
-- **Estado organizacional:** projeto de grupo, atualmente dentro de um repositório pessoal.
-- **Recomendação:** tratar Sorveteria como projeto coletivo oficial no catálogo. Se todos os integrantes concordarem, criar um repositório próprio sob a organização e transferir/copiar apenas a pasta do projeto, mantendo o repositório acadêmico original intacto até validar o resultado. Não transferir o repositório inteiro sem avaliar as outras atividades que ele contém.
-- **Hospedagem registrada no README:** [versão hospedada para estudo](http://64.181.168.160/sorveteria/). Confirmar se ainda está ativa e revisar segurança antes de divulgar como demonstração pública.
+- **Origem atual:** [Projetos-PW-ETEC/Sorveteria](https://github.com/Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria)
+- **Repositório de origem:** [Lvc4br/Projetos-PW-ETEC](https://github.com/Lvc4br/Projetos-PW-ETEC)
+- **Tecnologias identificadas:** HTML, CSS e JavaScript.
+- **Equipe indicada no projeto:** Luca, Bianca e Fred; colaboradores no GitHub identificados no repositório: Bianca2804 e Csx-Santosz.
+- **Classificação no laboratório:** projeto coletivo oficial.
+- **Estrutura identificada:** páginas HTML, pastas CSS, JavaScript, imagens e fontes.
+- **Estado de consolidação:** vinculado ao laboratório e registrado neste catálogo; a cópia integral dos arquivos e recursos para um repositório canônico da organização ainda precisa ser feita e validada. A integração de um repositório dedicado é preferível a misturar o projeto com a infraestrutura.
+- **Hospedagem mencionada na origem:** http://64.181.168.160/sorveteria/ — não tratar como publicação oficial antes de confirmar que continua ativa e segura.
+- **Cuidados:** manter os créditos e combinar com a equipe o destino canônico; não apagar nem alterar a origem até testar a cópia, os caminhos relativos, recursos e hospedagem.
 
-### Exercícios de Java
+### Códigos e exercícios de Java
 
-- **Repositório atual:** [ETEC-Desenvolvimento-de-Sistemas/java](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas/tree/main/java)
-- **Contexto:** exercícios acadêmicos organizados por listas e atividades.
-- **Estado organizacional:** repositório pessoal de estudo, não identificado como projeto coletivo.
-- **Recomendação:** manter no perfil pessoal. Podemos referenciá-lo na biblioteca de aprendizagem, mas não transferir nem misturar exercícios individuais ao laboratório sem uma decisão explícita dos autores.
+- **Origem atual:** [ETEC-Desenvolvimento-de-Sistemas/java](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas/tree/main/java)
+- **Repositório de origem:** [Lvc4br/ETEC-Desenvolvimento-de-Sistemas](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas)
+- **Conteúdo observado:** exercícios organizados por listas, incluindo `listaA`, `listaAExtra2`, `listaD`, `listaExtra` e `listaF`.
+- **Classificação no laboratório:** código acadêmico incorporado ao escopo de aprendizagem do laboratório, conforme decisão atual.
+- **Estado de consolidação:** vinculado ao laboratório e registrado neste catálogo; os arquivos Java ainda estão no repositório de origem. Recomenda-se uma área ou repositório próprio de Java, com README por lista, instruções para executar e autoria/créditos preservados.
+- **Cuidados:** não mover o repositório pessoal inteiro. Copiar apenas a pasta Java depois de conferir licenças, autoria, dependências e se há material de colegas que exija autorização.
 
-## Repositórios pessoais a manter separados
+## Repositórios pessoais e outras iniciativas
 
 | Repositório | Uso conhecido | Recomendação |
 |---|---|---|
 | [LV_Portfolio](https://github.com/Lvc4br/LV_Portfolio) | Portfólio pessoal | Manter pessoal |
-| [nexo-analytics](https://github.com/Lvc4br/nexo-analytics) | Projeto de analytics relacionado ao portfólio | Manter pessoal enquanto for iniciativa individual |
-| [Projetos-PW-ETEC](https://github.com/Lvc4br/Projetos-PW-ETEC) | Coleção de atividades de Programação Web, incluindo Sorveteria | Manter original; avaliar extração do projeto coletivo Sorveteria com a equipe |
-| [ETEC-Desenvolvimento-de-Sistemas](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas) | Exercícios de Java | Manter pessoal |
+| [nexo-analytics](https://github.com/Lvc4br/nexo-analytics) | Analytics relacionado ao portfólio | Manter pessoal enquanto for iniciativa individual |
+| [Projetos-PW-ETEC](https://github.com/Lvc4br/Projetos-PW-ETEC) | Coleção de atividades de Programação Web, incluindo a origem de Sorveteria | Preservar o original; não transferir o repositório inteiro |
+| [ETEC-Desenvolvimento-de-Sistemas](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas) | Repositório de estudo que contém a pasta Java | Preservar o original; não transferir o repositório inteiro |
 
-## Decisões de limpeza
+## Decisões de organização
 
-A última consulta à organização encontrou três repositórios: `.github`, `lab-central` e `Lab-Tecnico-Etec`. Os antigos nomes de demonstração `demo-repository` e `fuzzy-succotash-demo-repository` não apareceram na lista atual; por isso não são tratados como repositórios atuais nem como ações pendentes.
+A última consulta encontrou três repositórios na organização: `.github`, `lab-central` e `Lab-Tecnico-Etec`. Os nomes antigos `demo-repository` e `fuzzy-succotash-demo-repository` não apareceram na listagem atual e não são tratados como tarefas pendentes.
 
 ## Regras de manutenção
 
-- Cada projeto deve ter um repositório canônico; não crie cópias concorrentes sem motivo claro.
-- Projetos coletivos podem ficar sob a organização quando a equipe concordar e a autoria estiver documentada.
-- Projetos individuais permanecem sob controle de seus autores.
-- Antes de mover, renomear, arquivar, tornar público ou excluir algo, confira histórico, deploys, workflows, integrações, forks e permissões.
-- Não publique credenciais, dados pessoais, imagens ou materiais sem autorização e licença apropriada.
+- Cada projeto deve ter um repositório canônico; evitar cópias concorrentes sem motivo.
+- O catálogo define a classificação acordada; a localização física do código deve ser descrita com precisão.
+- Projetos coletivos e acadêmicos do laboratório precisam de responsáveis e créditos claros.
+- Projetos pessoais não relacionados permanecem nos perfis pessoais.
+- Antes de mover, renomear, arquivar, tornar público ou excluir algo, conferir histórico, deploys, workflows, integrações, forks, permissões e autoria.
+- Não publicar credenciais, dados pessoais, imagens ou materiais sem autorização e licença apropriada.
