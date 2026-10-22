@@ -18,15 +18,12 @@ Ponto de entrada para organização, documentação, catálogo de projetos e rec
 - [Política de segurança](SECURITY.md)
 - [Perfil público e padrões globais](https://github.com/Lab-Tecnico-Etec/.github)
 
-## Repositórios essenciais
+## Projetos em destaque
 
-| Repositório | Finalidade | Decisão |
+| Projeto | Situação atual | Próxima decisão |
 |---|---|---|
-| [.github](https://github.com/Lab-Tecnico-Etec/.github) | Perfil público, modelos e diretrizes padrão | Manter |
-| [lab-central](https://github.com/Lab-Tecnico-Etec/lab-central) | Governança e documentação central | Manter |
-| [Lab-Tecnico-Etec](https://github.com/Lab-Tecnico-Etec/Lab-Tecnico-Etec) | Apresentação institucional separada | Avaliar redundância |
-| [demo-repository](https://github.com/Lab-Tecnico-Etec/demo-repository) | Demonstração genérica do GitHub | Não usar como projeto oficial |
-| [fuzzy-succotash-demo-repository](https://github.com/Lab-Tecnico-Etec/fuzzy-succotash-demo-repository) | Segunda demonstração genérica do GitHub | Provável redundância |
+| [Sorveteria](https://github.com/Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria) | Projeto de grupo dentro do repositório acadêmico de Programação Web | Consultar a equipe sobre criar um repositório canônico sob a organização, sem apagar o original |
+| [Exercícios de Java](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas/tree/main/java) | Estudos individuais organizados por listas | Manter no repositório pessoal; não transferir sem acordo |
 
 ## Padrões de colaboração
 
@@ -35,7 +32,7 @@ Ponto de entrada para organização, documentação, catálogo de projetos e rec
 - Execute os testes e builds disponíveis e informe o que realmente foi validado.
 - Nunca envie credenciais, tokens, chaves privadas, dados pessoais ou arquivos `.env` reais.
 - Defina a licença de cada projeto com seus responsáveis; não presuma que o código está liberado para reutilização.
-- Preserve autoria, histórico e código existente. Não mova, renomeie, arquive ou exclua projetos sem autorização explícita.
+- Preserve autoria, histórico e código existente. Não mova, renomeie, torne público, arquive ou exclua projetos sem autorização explícita.
 
 ## Adicionar um projeto ao catálogo
 
