@@ -17,7 +17,7 @@ Inventário oficial do Lab Técnico ETEC. O catálogo distingue o vínculo insti
 - **Repositório canônico:** [Lab-Tecnico-Etec/Web-Site-Sorveteria](https://github.com/Lab-Tecnico-Etec/Web-Site-Sorveteria)
 - **Origem preservada:** [Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria](https://github.com/Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria)
 - **Tecnologias:** HTML, CSS e JavaScript.
-- **Autores e equipe:** Luca Toniolo ([@Lvc4br](https://github.com/Lvc4br)), Fred ([@csx-santosz](https://github.com/csx-santosz)) e Bianca ([@bianca2804](https://github.com/bianca2804)). O projeto foi desenvolvido pelos três em colaboração.
+- **Autores e equipe:** Luca Toniolo ([@Lvc4br](https://github.com/Lvc4br)), Fred ([@csx-santosz](https://github.com/csx-santosz)), Bianca ([@bianca2804](https://github.com/bianca2804)) e Arthur ([@Chiizo-quent](https://github.com/Chiizo-quent)). O projeto foi desenvolvido pelos quatro em colaboração.
 - **Arquivos copiados:** páginas HTML, folhas CSS, scripts JS, textos de licença, fontes e 56 dos 57 recursos binários identificados na origem.
 - **Pendência conhecida:** `imgs/imgs/Logo1.png` não foi transferido porque a integração não conseguiu recuperar seu conteúdo binário; copie-o manualmente da origem para o mesmo caminho.
 - **Estado:** consolidação quase completa, ainda não validada visualmente. Não publicar como versão final antes de restaurar o arquivo ausente, testar caminhos relativos, verificar licenças e créditos e executar todas as páginas em servidor local.
