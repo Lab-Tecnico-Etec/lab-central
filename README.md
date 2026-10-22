@@ -5,6 +5,7 @@ Ponto de entrada para organização, documentação, catálogo de projetos e rec
 ## Navegação
 
 - [Plano inicial](docs/PLANO-INICIAL.md)
+- [Plano de implantação por fases](docs/PLANO-IMPLANTACAO.md)
 - [Governança](docs/GOVERNANCA.md)
 - [Fluxo de trabalho](docs/FLUXO-DE-TRABALHO.md)
 - [Classificação de projetos](docs/CLASSIFICACAO.md)
@@ -22,8 +23,8 @@ Ponto de entrada para organização, documentação, catálogo de projetos e rec
 
 | Projeto | Classificação | Origem do código | Situação |
 |---|---|---|---|
-| [Sorveteria](https://github.com/Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria) | Projeto coletivo de Programação Web | [Pasta Sorveteria](https://github.com/Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria) | Registrado como projeto do laboratório; consolidação física em repositório canônico ainda pendente |
-| [Códigos Java](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas/tree/main/java) | Código acadêmico de aprendizagem | [Pasta Java](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas/tree/main/java) | Registrado como parte do escopo de aprendizagem; consolidação física ainda pendente |
+| [Sorveteria](https://github.com/Lab-Tecnico-Etec/Web-Site-Sorveteria) | Projeto coletivo de Programação Web | [Pasta de origem](https://github.com/Lvc4br/Projetos-PW-ETEC/tree/main/Sorveteria) | Migração parcial: HTML, CSS, JS e licenças copiadas; imagens e fontes binárias pendentes |
+| [Códigos Java](https://github.com/Lab-Tecnico-Etec/Projetos-Java) | Código acadêmico de aprendizagem | [Pasta de origem](https://github.com/Lvc4br/ETEC-Desenvolvimento-de-Sistemas/tree/main/java) | 42 arquivos Java copiados; origem preservada; validação de execução pendente |
 
 ## Padrões de colaboração
 
