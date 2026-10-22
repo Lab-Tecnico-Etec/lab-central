@@ -16,14 +16,17 @@ Ponto de entrada para organização, documentação, catálogo de projetos e rec
 - [Guia de contribuição](CONTRIBUTING.md)
 - [Código de conduta](CODE_OF_CONDUCT.md)
 - [Política de segurança](SECURITY.md)
+- [Perfil público e padrões globais](https://github.com/Lab-Tecnico-Etec/.github)
 
-## Catálogo rápido
+## Repositórios essenciais
 
-| Repositório | Finalidade | Estado |
+| Repositório | Finalidade | Decisão |
 |---|---|---|
-| [Lab-Tecnico-Etec](https://github.com/Lab-Tecnico-Etec/Lab-Tecnico-Etec) | Apresentação institucional da organização | Em estruturação |\n| [lab-central](https://github.com/Lab-Tecnico-Etec/lab-central) | Central de documentação e padrões | Em desenvolvimento |
-
-> O catálogo registra os repositórios da organização confirmados nesta revisão. Mantenha-o atualizado quando novos projetos forem criados ou identificados.
+| [.github](https://github.com/Lab-Tecnico-Etec/.github) | Perfil público, modelos e diretrizes padrão | Manter |
+| [lab-central](https://github.com/Lab-Tecnico-Etec/lab-central) | Governança e documentação central | Manter |
+| [Lab-Tecnico-Etec](https://github.com/Lab-Tecnico-Etec/Lab-Tecnico-Etec) | Apresentação institucional separada | Avaliar redundância |
+| [demo-repository](https://github.com/Lab-Tecnico-Etec/demo-repository) | Demonstração genérica do GitHub | Não usar como projeto oficial |
+| [fuzzy-succotash-demo-repository](https://github.com/Lab-Tecnico-Etec/fuzzy-succotash-demo-repository) | Segunda demonstração genérica do GitHub | Provável redundância |
 
 ## Padrões de colaboração
 
@@ -36,8 +39,8 @@ Ponto de entrada para organização, documentação, catálogo de projetos e rec
 
 ## Adicionar um projeto ao catálogo
 
-Abra uma issue ou Pull Request para registrar nome/link, objetivo, categoria, tecnologias, estado confirmado e responsável (se definido). Use `a confirmar` para informações desconhecidas; não invente metadados.
+Abra uma issue ou Pull Request para registrar nome/link, objetivo, categoria, tecnologias, estado confirmado e responsável (se definido). Use "a confirmar" para informações desconhecidas; não invente metadados.
 
 ## Limites da central
 
-Esta central documenta padrões recomendados. Ela não configura automaticamente equipes, permissões, regras de branch, visibilidade, segredos, proteções ou deploy da organização. Essas opções precisam ser revisadas e aplicadas por um administrador com permissões adequadas.
+Esta central documenta padrões recomendados. Ela não configura automaticamente equipes, permissões, visibilidade, regras de branch, segredos, proteções ou deploy da organização. Essas opções precisam ser revisadas e aplicadas por um administrador com permissões adequadas.
