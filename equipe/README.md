@@ -1,27 +1,29 @@
 # Equipe — Lab Técnico ETEC
 
-O Lab Técnico ETEC é um portfólio coletivo. Esta página reúne os perfis dos participantes e permite entender quem desenvolve cada projeto.
+O Lab Técnico ETEC é um portfólio coletivo dos cinco integrantes atuais. Esta página reúne os perfis públicos e permite acompanhar a participação da equipe nos projetos.
 
 ## Integrantes
 
-### [Luca Toniolo](integrantes/luca-toniolo.md)
+| Integrante | GitHub | Perfil |
+|---|---|---|
+| Luca | [@Lvc4br](https://github.com/Lvc4br) | [Ver perfil](integrantes/luca-toniolo.md) |
+| Fred | [@Csx-Santosz](https://github.com/Csx-Santosz) | [Ver perfil](integrantes/fred.md) |
+| Bianca | [@Bianca2804](https://github.com/Bianca2804) | [Ver perfil](integrantes/bianca.md) |
+| Arthur | [@Chiizo-quent](https://github.com/Chiizo-quent) | [Ver perfil](integrantes/arthur.md) |
+| Higor | [@higormonteiro500-lab](https://github.com/higormonteiro500-lab) | [Ver perfil](integrantes/higor.md) |
 
-- **GitHub:** [@Lvc4br](https://github.com/Lvc4br)
-- **Atuação:** Desenvolvimento de Sistemas
-- **Interesses:** desenvolvimento web, programação, modelagem e visualização 3D.
+## Projetos da equipe
 
-### Demais integrantes
+- [Estufa Inteligente](../projetos/estufa-inteligente/README.md) — projeto em desenvolvimento com Arduino e Proteus.
+- [TCC da ETEC](../projetos/tcc-etec/README.md) — projeto futuro; ainda sem tema ou início oficial anunciado pela ETEC.
 
-Os perfis individuais serão adicionados após confirmação dos nomes, usuários GitHub, áreas de atuação e autorização de publicação. Não associamos automaticamente colaboradores de projetos antigos à equipe atual.
+## Sobre os perfis
 
-## Como incluir um integrante
+Os perfis individuais registram apenas os dados confirmados até o momento: nome de exibição e conta GitHub. Áreas de atuação, competências, biografias e contribuições específicas poderão ser acrescentadas quando cada integrante fornecer ou aprovar essas informações.
 
-1. Copie o [modelo de perfil](../templates/README-INTEGRANTE.md).
-2. Crie um arquivo em `equipe/integrantes/` com o nome da pessoa.
-3. Preencha apenas informações confirmadas e autorizadas.
-4. Adicione o perfil nesta página.
-5. Vincule os projetos e descreva contribuições reais.
+## Como atualizar
 
-## Por que os perfis são importantes
-
-Cada perfil deve mostrar a participação da pessoa no trabalho coletivo, suas áreas de interesse e os projetos em que contribuiu. A autoria deve ser transparente e nunca presumida.
+1. Edite o perfil individual em `equipe/integrantes/`.
+2. Associe projetos somente quando a participação estiver confirmada.
+3. Descreva contribuições reais e acordadas pela equipe.
+4. Mantenha os links e a lista de integrantes atualizados.
