@@ -1,23 +1,49 @@
-# TCCs — Lab Técnico ETEC
+# Lab Técnico ETEC — Central de projetos
 
-Central simples de orientação para organizar e preservar Trabalhos de Conclusão de Curso da ETEC.
+> Portal de apresentação, documentação e organização dos projetos de maior relevância desenvolvidos pelo grupo, incluindo o TCC da ETEC.
 
-## Links principais
+O **Lab Técnico ETEC** é um portfólio coletivo. Aqui você encontra os trabalhos, conhece os integrantes e acessa a documentação de cada projeto.
 
-- [Repositório institucional de TCCs](https://github.com/Lab-Tecnico-Etec/Lab-Tecnico-Etec)
-- [Catálogo de TCCs](catalogo/PROJETOS.md)
-- [Orientações de organização](docs/ORGANIZATION.md)
+## Navegação
 
-## Como registrar um TCC
+| Seção | Conteúdo |
+|---|---|
+| [Catálogo de projetos](catalogo/PROJETOS.md) | TCC, projetos de grande porte e trabalhos em destaque |
+| [Equipe](equipe/README.md) | Perfis individuais, áreas de atuação e contribuições |
+| [Modelo de projeto](templates/README-PROJETO.md) | Padrão de apresentação para cada trabalho |
+| [Modelo de TCC](templates/README-TCC.md) | Estrutura acadêmica e técnica para o TCC |
+| [Organização](docs/ORGANIZATION.md) | Estrutura, critérios e responsabilidades |
 
-1. Crie ou utilize o repositório aprovado para o trabalho.
-2. Inclua um README com título, resumo, integrantes e instruções de execução, conforme autorizado.
-3. Organize documentos, código e recursos em pastas claras.
-4. Registre alterações importantes no histórico.
-5. Revise permissões e remova segredos ou dados pessoais antes de compartilhar.
+## Projetos em destaque
 
-## Escopo
+### Trabalho de Conclusão de Curso — ETEC
 
-Esta central é destinada somente à organização dos TCCs da ETEC. Repositórios de exercícios, trabalhos de outras disciplinas e projetos pessoais ficam fora do escopo. Os repositórios antigos de Sorveteria e Java são preservados, mas não fazem parte deste catálogo de TCCs.
+Projeto desenvolvido coletivamente pelo grupo como Trabalho de Conclusão de Curso. A página do projeto deve reunir o tema oficial, problema, objetivos, justificativa, escopo, integrantes, orientador (quando autorizado), tecnologias, etapas, documentação e resultado.
 
-A visibilidade dos repositórios deve seguir as orientações da escola e o consentimento dos envolvidos. Não inclua materiais confidenciais ou dados pessoais sem autorização.
+**Cadastro em preenchimento:** o título oficial, o repositório específico, a descrição técnica e a composição definitiva da equipe ainda precisam ser informados para evitar publicar dados incorretos.
+
+### Projetos de grande porte
+
+Além do TCC, a organização pode apresentar sistemas, plataformas e outros trabalhos de maior escopo que representem a capacidade técnica e colaborativa do grupo. Eles devem ser cadastrados individualmente no catálogo, com seus próprios repositórios e créditos.
+
+## Como cadastrar um projeto
+
+1. Defina a categoria: TCC, projeto de grande porte ou outro trabalho selecionado.
+2. Crie ou indique o repositório correspondente.
+3. Preencha o README usando um dos modelos desta central.
+4. Registre todos os integrantes e suas contribuições, com autorização.
+5. Adicione documentação, demonstrações e imagens que possam ser divulgadas.
+6. Inclua o projeto no [catálogo](catalogo/PROJETOS.md).
+
+## Escopo e preservação
+
+Esta central prioriza projetos de maior relevância do grupo e o TCC da ETEC. Não é um depósito indiscriminado de exercícios ou atividades rotineiras.
+
+Os repositórios antigos de Sorveteria e Java permanecem preservados, mas não são apresentados como projetos atuais em destaque nem incluídos no catálogo principal. Nenhum repositório ou histórico deve ser apagado apenas por estar fora do escopo.
+
+## Segurança e autoria
+
+- Só publique trabalhos e informações com autorização dos envolvidos e conforme as regras da escola.
+- Não inclua senhas, tokens, dados pessoais desnecessários ou documentos restritos.
+- Identifique claramente autores, colaboradores e fontes externas.
+- Mantenha o histórico e a documentação de cada projeto.
