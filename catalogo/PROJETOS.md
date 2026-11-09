@@ -1,33 +1,38 @@
 # Catálogo de projetos
 
-Este catálogo apresenta os trabalhos de maior relevância desenvolvidos pelo grupo Lab Técnico ETEC. O foco é o **TCC realizado pelo grupo na ETEC** e os demais projetos de grande porte que mereçam apresentação pública.
+Este catálogo apresenta os trabalhos de maior relevância desenvolvidos pelo grupo Lab Técnico ETEC. Ele diferencia o projeto técnico atualmente em desenvolvimento do futuro TCC, que ainda não foi definido nem teve início anunciado pela ETEC.
 
-> Um projeto só deve ser listado como concluído quando essa condição estiver confirmada. Não invente título, autoria, tecnologias, resultados ou links.
-
-## 1. Trabalho de Conclusão de Curso — ETEC
+## 1. Estufa Inteligente
 
 | Campo | Informação |
 |---|---|
-| Projeto | [Título oficial a cadastrar](../projetos/tcc-etec/README.md) |
-| Categoria | Trabalho de Conclusão de Curso |
-| Equipe | Grupo Lab Técnico ETEC — composição a confirmar |
-| Situação | Em desenvolvimento / cadastro a completar |
+| Projeto | [Estufa Inteligente](../projetos/estufa-inteligente/README.md) |
+| Categoria | Projeto técnico |
+| Equipe | Luca, Fred, Bianca, Arthur e Higor |
+| Situação | Em desenvolvimento |
+| Tecnologias/ferramentas informadas | Arduino e Proteus |
 | Repositório | A vincular |
-| Apresentação | A cadastrar |
 
-**Sobre:** este espaço será a apresentação oficial do TCC desenvolvido pelo grupo. Deve conter o problema abordado, justificativa, objetivos, público-alvo, escopo, funcionalidades, arquitetura, tecnologias, metodologia, etapas, resultados e documentação.
+**Sobre:** projeto de desenvolvimento de uma estufa inteligente utilizando Arduino e o software Proteus. Requisitos, componentes, funcionalidades, simulações, testes e resultados serão documentados conforme forem definidos e validados.
 
-**Próxima atualização necessária:** inserir título aprovado, resumo oficial, integrantes, orientador (se autorizado), repositório e situação real do trabalho.
+## 2. Trabalho de Conclusão de Curso — ETEC
 
-## 2. Projetos de grande porte
+| Campo | Informação |
+|---|---|
+| Projeto | [TCC da ETEC](../projetos/tcc-etec/README.md) |
+| Categoria | Trabalho de Conclusão de Curso |
+| Equipe | Lab Técnico ETEC |
+| Situação | Ainda não iniciado; tema não definido |
+| Início oficial | Aguardando comunicação da ETEC |
+| Repositório | A vincular futuramente |
 
-Cadastre abaixo sistemas e trabalhos de maior escopo, desenvolvidos individualmente ou em equipe, que representem uma entrega significativa.
+**Sobre:** a equipe ainda não recebeu a definição do tema nem o anúncio oficial de início dos TCCs pela ETEC. Esta página é apenas um espaço de planejamento e documentação futura; não representa um trabalho já iniciado ou aprovado.
 
-| Projeto | Categoria | Equipe | Situação | Repositório |
-|---|---|---|---|---|
-| A cadastrar | Projeto de grande porte | A confirmar | A confirmar | A vincular |
+## 3. Projetos futuros de grande porte
 
-## 3. Como adicionar um projeto
+Novos projetos de maior escopo poderão ser adicionados quando existirem informações verificadas, documentação e autorização de divulgação.
+
+## Como adicionar um projeto
 
 Para cada novo registro, informe:
 
@@ -42,10 +47,6 @@ Para cada novo registro, informe:
 
 Use o [modelo de apresentação de projeto](../templates/README-PROJETO.md) ou o [modelo de TCC](../templates/README-TCC.md).
 
-## 4. Critérios de destaque
+## Projetos preservados fora do catálogo
 
-Entram no catálogo principal trabalhos com escopo relevante, documentação suficiente, autoria identificada e autorização para divulgação. Exercícios, testes e atividades rotineiras não precisam ser cadastrados aqui.
-
-## 5. Projetos preservados fora do catálogo
-
-Os repositórios [Web-Site-Sorveteria](https://github.com/Lab-Tecnico-Etec/Web-Site-Sorveteria) e [Projetos-Java](https://github.com/Lab-Tecnico-Etec/Projetos-Java) continuam preservados, mas não são classificados como TCC ou projeto de grande porte em destaque nesta versão do catálogo.
+Os repositórios [Web-Site-Sorveteria](https://github.com/Lab-Tecnico-Etec/Web-Site-Sorveteria) e [Projetos-Java](https://github.com/Lab-Tecnico-Etec/Projetos-Java) continuam preservados, mas não são classificados como projetos atuais em destaque nesta versão do catálogo.
