@@ -10,18 +10,15 @@ Estudante de **Técnico em Desenvolvimento de Sistemas na ETEC de Itaquera**, co
 - Programação e estruturação de sistemas
 - Modelagem e visualização 3D
 
-## Projetos
+## Projetos do Lab Técnico ETEC
 
-Os projetos associados a este perfil serão vinculados conforme participação e autoria confirmadas.
+- [Estufa Inteligente](../../projetos/estufa-inteligente/README.md) — projeto atual da equipe, em desenvolvimento com Arduino e Proteus. As contribuições individuais ainda serão registradas após alinhamento do grupo.
+- [TCC da ETEC](../../projetos/tcc-etec/README.md) — futuro projeto acadêmico; tema e início ainda não definidos/anunciados.
 
-- [Portfólio pessoal](https://github.com/Lvc4br)
+## Contribuições
 
-## Contribuições no Lab Técnico ETEC
-
-A participação em cada projeto coletivo deve ser descrita na respectiva página do projeto, distinguindo implementação, documentação, pesquisa, design e outras responsabilidades.
+As responsabilidades específicas em cada projeto serão descritas quando estiverem confirmadas pela equipe.
 
 ## Contato e links
 
 - **GitHub:** [github.com/Lvc4br](https://github.com/Lvc4br)
-
-*Perfil inicial elaborado com informações públicas/profissionais já disponíveis. Atualizações biográficas e novas informações devem ser aprovadas pelo próprio integrante.*
