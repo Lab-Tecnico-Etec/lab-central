@@ -1,6 +1,6 @@
 # Trabalho de Conclusão de Curso — ETEC
 
-<badge>Projeto principal do grupo</badge>
+**Projeto principal do grupo · TCC**
 
 > Página oficial de apresentação do TCC desenvolvido coletivamente pelo grupo Lab Técnico ETEC.
 
