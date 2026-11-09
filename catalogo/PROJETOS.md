@@ -8,7 +8,7 @@ Este catálogo apresenta os trabalhos de maior relevância desenvolvidos pelo gr
 
 | Campo | Informação |
 |---|---|
-| Projeto | **Título oficial a cadastrar** |
+| Projeto | [Título oficial a cadastrar](../projetos/tcc-etec/README.md) |
 | Categoria | Trabalho de Conclusão de Curso |
 | Equipe | Grupo Lab Técnico ETEC — composição a confirmar |
 | Situação | Em desenvolvimento / cadastro a completar |
