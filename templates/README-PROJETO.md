@@ -1,41 +1,60 @@
 # Nome do projeto
 
-> Resuma em uma frase o que o projeto faz e para quem.
+> Descrição curta: o que é, qual problema resolve e para quem foi desenvolvido.
 
-- **Estado:** ideia / protótipo / em desenvolvimento / estável / arquivado
-- **Responsável:** a confirmar
-- **Tipo:** a confirmar
-- **Licença:** a confirmar
+<div align="center">
 
-## Objetivo
-Explique o problema e o resultado esperado.
+**[Demonstração](LINK_SE_PUBLICO) · [Documentação](LINK) · [Repositório](LINK)**
+
+</div>
+
+## Visão geral
+
+- **Categoria:** projeto de grande porte / complementar
+- **Situação:** planejamento / em desenvolvimento / concluído / arquivado
+- **Período:** mês/ano — mês/ano
+- **Equipe:** nomes e perfis dos integrantes
+- **Responsável pelo repositório:** nome
+- **Licença:** a definir
+
+## Contexto e objetivo
+
+Explique o cenário, o problema, a motivação e o resultado esperado.
+
+## Equipe e contribuições
+
+| Integrante | GitHub | Contribuições |
+|---|---|---|
+| Nome | @usuario | Descrever contribuição real |
 
 ## Funcionalidades
+
 - [ ] Funcionalidade principal
+- [ ] Outra funcionalidade
 
-## Tecnologias
-Liste linguagens, frameworks, bibliotecas e versões relevantes.
+## Tecnologias e arquitetura
 
-## Requisitos
-Liste ferramentas, versões e dependências necessárias.
+Liste linguagens, frameworks, bibliotecas, serviços e decisões técnicas realmente utilizados.
+
+## Demonstração
+
+Adicione capturas de tela, GIFs, vídeos ou links de demonstração apenas quando houver material autorizado.
 
 ## Instalação e execução
-Inclua comandos completos e seguros para preparar e executar o projeto.
 
-## Configuração
-Documente variáveis necessárias usando nomes e exemplos fictícios. Nunca inclua segredos reais.
+Forneça pré-requisitos, comandos e passos reproduzíveis.
 
-## Testes
-Explique como executar testes e validações; informe o que ainda não é testado.
+## Documentação
 
-## Estrutura de pastas
-Explique apenas as pastas que realmente existem.
+- [Visão geral](LINK)
+- [Requisitos](LINK)
+- [Arquitetura](LINK)
+- [Apresentação](LINK)
 
-## Limitações e riscos conhecidos
-Descreva limitações, pendências e requisitos de segurança.
+## Resultados, limitações e próximos passos
 
-## Como contribuir
-Consulte [CONTRIBUTING.md](../CONTRIBUTING.md) se aplicável ou forneça o guia específico do repositório.
+Registre entregas verificáveis, limitações conhecidas e melhorias planejadas.
 
 ## Créditos e licença
-Reconheça fontes e autores; confirme a licença antes de distribuir.
+
+Reconheça autores, colaboradores e fontes externas. Confirme as permissões antes de distribuir materiais.
