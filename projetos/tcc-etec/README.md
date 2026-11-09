@@ -1,52 +1,52 @@
 # Trabalho de Conclusão de Curso — ETEC
 
-**Projeto principal do grupo · TCC**
+<sub>Projeto acadêmico futuro · Aguardando definição e comunicação oficial</sub>
 
-> Página oficial de apresentação do TCC desenvolvido coletivamente pelo grupo Lab Técnico ETEC.
+## Situação atual
 
-## Apresentação
+O grupo ainda **não definiu o tema do TCC**, e a ETEC ainda **não anunciou o início dos trabalhos de conclusão**. Portanto, este espaço é preparatório: não existe título oficial, escopo aprovado, cronograma, orientador ou repositório de desenvolvimento a divulgar neste momento.
 
-Esta página será o ponto de entrada para conhecer o TCC: sua proposta, contexto, objetivos, equipe, desenvolvimento, tecnologias, documentação e resultado final.
-
-**O cadastro está em fase de preenchimento.** O título oficial, o tema aprovado, o resumo, os integrantes definitivos, o orientador, o repositório de desenvolvimento e o cronograma precisam ser inseridos pela equipe. Esses dados não serão presumidos.
+A equipe atualizará esta página quando receber as orientações oficiais e definir a proposta do trabalho.
 
 ## Ficha do projeto
 
-| Campo | Informação |
+| Campo | Situação |
 |---|---|
-| Título oficial | A confirmar |
-| Instituição | ETEC — unidade a confirmar |
-| Curso | A confirmar |
-| Ano/período | A confirmar |
-| Orientador | A confirmar, mediante autorização |
-| Equipe | Consultar [integrantes](../../equipe/README.md) |
-| Situação | Cadastro inicial |
-
-## O que será documentado
-
-1. **Problema e contexto:** necessidade que motivou o trabalho.
-2. **Justificativa e objetivos:** relevância e resultados pretendidos.
-3. **Escopo:** funcionalidades, requisitos e limites.
-4. **Equipe:** integrantes, papéis e contribuições individuais.
-5. **Desenvolvimento:** metodologia, etapas, decisões e tecnologias.
-6. **Resultados:** demonstração, testes, validação e conclusão.
-7. **Documentação:** diagramas, manuais, relatório e apresentação autorizados.
+| Título oficial | Ainda não definido |
+| Tema | Ainda não definido |
+| Instituição | ETEC de Itaquera |
+| Curso | Técnico em Desenvolvimento de Sistemas |
+| Início dos TCCs | Aguardando anúncio oficial da ETEC |
+| Orientador | A definir |
+| Equipe | Luca, Fred, Bianca, Arthur e Higor |
+| Situação | Planejamento futuro — não iniciado |
+| Repositório | A criar/vincular quando o projeto começar |
 
 ## Equipe
 
-A composição e as contribuições serão registradas após confirmação do grupo. Consulte a [página da equipe](../../equipe/README.md).
+- [Luca — @Lvc4br](../../equipe/integrantes/luca-toniolo.md)
+- [Fred — @Csx-Santosz](../../equipe/integrantes/fred.md)
+- [Bianca — @Bianca2804](../../equipe/integrantes/bianca.md)
+- [Arthur — @Chiizo-quent](../../equipe/integrantes/arthur.md)
+- [Higor — @higormonteiro500-lab](../../equipe/integrantes/higor.md)
 
-## Repositório e materiais
+## Quando o TCC começar
 
-- **Repositório de código:** a vincular
-- **Relatório/monografia:** a vincular, se a divulgação for autorizada
-- **Apresentação:** a vincular
-- **Demonstração:** a vincular
+A página será preenchida com informações aprovadas pelo grupo e pela instituição, incluindo:
 
-## Atualizações
+1. tema, título e resumo;
+2. problema, justificativa e objetivos;
+3. requisitos, escopo e funcionalidades;
+4. metodologia e cronograma;
+5. arquitetura, tecnologias e ferramentas;
+6. divisão de responsabilidades e contribuições;
+7. repositório, documentação e demonstração;
+8. testes, resultados, conclusão e referências.
 
-A equipe deve atualizar esta página à medida que o projeto evoluir, sem declarar entregas ou resultados que ainda não foram verificados.
+## Projeto atual da equipe
+
+A [Estufa Inteligente](../estufa-inteligente/README.md) é um projeto técnico atualmente em desenvolvimento com Arduino e Proteus. Ela é documentada separadamente e **não deve ser confundida com o TCC**.
 
 ## Privacidade e integridade acadêmica
 
-A divulgação deve respeitar as regras da ETEC, as orientações do professor responsável, a autoria do grupo e a autorização de cada participante. Documentos escolares restritos e dados pessoais não devem ser publicados.
+A divulgação deverá respeitar as regras da ETEC, as orientações do professor responsável, a autoria do grupo e a autorização dos participantes. Documentos escolares restritos e dados pessoais não devem ser publicados.
