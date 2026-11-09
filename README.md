@@ -16,7 +16,7 @@ O **Lab Técnico ETEC** é um portfólio coletivo. Aqui você encontra os trabal
 
 ## Projetos em destaque
 
-### Trabalho de Conclusão de Curso — ETEC
+### [Trabalho de Conclusão de Curso — ETEC](projetos/tcc-etec/README.md)
 
 Projeto desenvolvido coletivamente pelo grupo como Trabalho de Conclusão de Curso. A página do projeto deve reunir o tema oficial, problema, objetivos, justificativa, escopo, integrantes, orientador (quando autorizado), tecnologias, etapas, documentação e resultado.
 
