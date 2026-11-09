@@ -2,20 +2,38 @@
 
 ## Finalidade
 
-Apresentar e preservar os projetos de maior relevância desenvolvidos pelo grupo, com destaque para o Trabalho de Conclusão de Curso (TCC) realizado na ETEC. A organização também funciona como portfólio coletivo dos integrantes.
+Apresentar e preservar os projetos de maior relevância desenvolvidos pelo grupo, com destaque para projetos técnicos em andamento e, futuramente, o Trabalho de Conclusão de Curso (TCC) da ETEC. A organização também funciona como portfólio coletivo dos cinco integrantes atuais.
+
+## Equipe atual
+
+- Luca — [@Lvc4br](https://github.com/Lvc4br)
+- Fred — [@Csx-Santosz](https://github.com/Csx-Santosz)
+- Bianca — [@Bianca2804](https://github.com/Bianca2804)
+- Arthur — [@Chiizo-quent](https://github.com/Chiizo-quent)
+- Higor — [@higormonteiro500-lab](https://github.com/higormonteiro500-lab)
+
+Consulte os [perfis individuais](../equipe/README.md). Informações biográficas, competências e contribuições específicas devem ser acrescentadas somente quando informadas ou aprovadas pelos próprios integrantes.
+
+## Projetos e situação atual
+
+1. **Estufa Inteligente:** projeto técnico atual em desenvolvimento, utilizando Arduino e Proteus. Consulte a [documentação do projeto](../projetos/estufa-inteligente/README.md).
+2. **TCC da ETEC:** projeto futuro. O tema ainda não foi definido e a ETEC ainda não anunciou o início dos trabalhos. Consulte a [página preparatória do TCC](../projetos/tcc-etec/README.md).
+
+A Estufa Inteligente não deve ser identificada como TCC sem uma decisão formal da equipe e da instituição.
 
 ## Estrutura
 
 - `.github`: apresentação pública e identidade da organização.
-- `lab-central`: catálogo, perfis da equipe, modelos e orientações.
+- `lab-central`: catálogo, perfis da equipe, documentação, modelos e páginas dos projetos.
 - `Lab-Tecnico-Etec`: repositório institucional de referência e acervo.
 - Um repositório próprio para cada projeto de grande porte ou TCC, quando adequado.
 
 ## Categorias de projeto
 
-1. **TCC:** trabalho acadêmico desenvolvido pelo grupo como conclusão do curso.
-2. **Projeto de grande porte:** sistema ou trabalho com escopo, complexidade ou documentação relevante.
-3. **Projeto complementar:** pode ser apresentado quando tiver relevância para o portfólio coletivo e autoria claramente identificada.
+1. **Projeto técnico em andamento:** trabalho atualmente desenvolvido pela equipe.
+2. **TCC:** trabalho acadêmico desenvolvido como conclusão do curso, quando oficialmente iniciado.
+3. **Projeto de grande porte:** sistema ou trabalho com escopo, complexidade ou documentação relevante.
+4. **Projeto complementar:** trabalho que tenha relevância para o portfólio coletivo e autoria claramente identificada.
 
 O catálogo principal não deve se tornar uma lista de exercícios ou tarefas rotineiras.
 
@@ -33,12 +51,6 @@ Cada projeto deve informar, conforme aplicável:
 - documentação, demonstração e imagens autorizadas;
 - situação, limitações, resultados e próximos passos;
 - créditos, fontes e licença.
-
-## Perfis dos integrantes
-
-Cada integrante deve ter uma página própria com nome de exibição, usuário GitHub, apresentação, áreas de interesse, competências relevantes, projetos associados e contribuições. Informações biográficas, fotos, links externos e dados de contato só devem ser publicados com consentimento.
-
-A lista de integrantes deve refletir a equipe atual. Colaboradores de trabalhos antigos não devem ser automaticamente apresentados como membros atuais.
 
 ## Créditos e colaboração
 
